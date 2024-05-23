@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunjakhmola&show_icons=true&locale=en&layout=compact" alt="arunjakhmola" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunjakhmola&show_icons=true&locale=en" alt="arunjakhmola" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunjakhmola&" alt="arunjakhmola" /></p>
 
