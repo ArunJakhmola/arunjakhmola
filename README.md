@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arun Jakhmola</h1>
-<h3 align="center">A Passionate Data Enthusiast from India</h3>
-
 <p align="center">
-  <img src="https://img.lovepik.com/background/20211021/large/lovepik-data-analysis-background-image_500442691.jpg" alt="Data Analytics Banner" style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/ArunJakhmola/arunjakhmola/blob/main/github-header-image%20(5).png" alt="Data Analytics Banner" style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);">
 </p>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="border: 2px solid rgba(0, 0, 0, 0.1); border-radius: 10px;">
@@ -39,7 +36,3 @@
 <div align="center" style="width: 100%; margin-top: -20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunjakhmola&" alt="arunjakhmola" style="max-width: 60%; width: 100%; height: auto; border: 2px solid rgba(0, 0, 0, 0.1); border-radius: 10px;">
 </div>
-
----
-
-<h2 align="center">Featured Projects</h2>
