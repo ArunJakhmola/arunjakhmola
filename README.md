@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **independent projects**
 - 🌱 I’m currently learning **Python, SQL, and Power BI**
 - 🤝 I’m looking for help with **real-life data analysis projects**
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/ArunJakhmola/data-analytics-projects)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/ArunJakhmola?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
